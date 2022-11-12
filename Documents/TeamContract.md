@@ -1,4 +1,3 @@
-##Test
 # Team Contract
 
 ## Communication
