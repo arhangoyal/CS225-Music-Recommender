@@ -30,3 +30,26 @@
 ### Optional: Questions for mentor
 1. Are there any optimizations you could think of?
 2. What exactly does Eulerian walk/Cycle detection mean?
+
+----
+
+## Development Log (Date: 11/04/22 - 11/11/22)
+
+### Weekly Goals
+- We decided to plan which algorithm to use between Dijkstra's and PageRank. We were able to meet the goal.
+- We decided to start structuring over our development and haven't been able to do so. We plan to meet on Saturday (12 Nov, 22) and meet the goal.
+- We decided to start creating a file parser & preprocessor and haven't been able to do so. We plan to meet on Saturday (12 Nov, 22) and meet the goal.
+
+### Specific Tasks Completed (and by who)
+- Arhan and Sara have collectively decided how to revise our initial proposal for a successful regrade.
+- Alex and Amitabh have collectively started conceptualizing the file parsers and algorithms to be developed soon.
+
+### Problems Encountered 
+- Majority members had crucial exams, for which we had to postpone our meet (11 Nov, 2022).
+
+### Plans for next week
+- Get the file parser and preprocessor running
+- Get done with the BFS algorithm
+
+### Optional: Questions for mentor
+- We have a few question and will be reaching out directly via e-mail.
