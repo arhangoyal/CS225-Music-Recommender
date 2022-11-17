@@ -18,9 +18,18 @@ Reddit::Reddit(std::string filename) {
         std::stringstream ss(temp);
         std::vector<std::string> vect;
         std::string linePart;
-        while(std::getline(ss, linePart, ',')) {
+        while(std::getline(ss, linePart, '	')) {
             vect.push_back(linePart);
         }
         lines_.push_back(vect);
     }
+    lines_.erase(lines_.begin());
+}
+
+std::vector<std::string> Reddit::getFirstLine() {
+    if (lines_.empty()) {
+        std::vector<std::string> temp;
+        return temp;
+    }
+    return lines_[0];
 }
