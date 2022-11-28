@@ -4,11 +4,17 @@
 #include <fstream>
 #include <string>
 
+// note: name has to be changed, we swapped over today so I didn't bother changing names yet
 
-class Reddit {
+// in the future, we will have to change these names
+
+
+class Flights {
     public:
-        Reddit();
-        Reddit(std::string filename);
+        // default constructor, never used
+        Flights();
+        // reads file
+        Flights(std::string filename);
         std::vector<std::string> getFirstLine();
     private:
         std::vector<std::vector<std::string>> lines_;
