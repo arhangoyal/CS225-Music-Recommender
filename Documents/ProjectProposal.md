@@ -38,7 +38,7 @@ After building the graph with the nodes represented as the airports and flights 
 
 ### Dijkstra’s Algorithm
 - Inputs: startAirport and endAirport
-- Output: shortest path between startAirport and endAirport
+- Output: path between startAirport and endAirport
 - Target time complexity: O(|V|^2) (worst case if we use array implementation)
 - Since Dijkstra’s Algorithm since essentially a weighted BFS traversal, we have the ability to include weights for our graph edges. We use the distance between airports for this.
 
