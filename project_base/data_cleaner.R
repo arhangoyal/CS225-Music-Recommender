@@ -3,7 +3,7 @@ library(tidyverse)
 data = read.delim("routes.dat.txt", sep = ",", header = F)
 data = as_tibble(data)
 data2 = data |>
-  filter(V3 != "\\N" & V4 != "\\N" & V5 != "\\N" & V6 != "\\N" & V8 != "\\N") |>
+  filter(V3 != "\\N" & V4 != "\\N" & V5 != "\\N" & V6 != "\\N" & V8 != "\\N" & V8 == 0) |>
   select(V3, V4, V5, V6)
 
 airports = read.delim("airports.dat.txt", sep = ",", header = F)
