@@ -55,3 +55,65 @@
 
 ### Optional: Questions for mentor
 - We have a few question and will be reaching out directly via e-mail.
+
+
+----
+
+
+# Development Log (Date: 11/11/2022 -- 11/18/2022)
+
+## Weekly Goals
+1) Finalize project proposal and look at notes (IN PROGRESS)
+
+2) Create a makefile / start working on project files (DONE)
+
+3) Clean dataset / start work on a data cleaning program (IN PROGRESS)
+
+
+## Specific Tasks Completed (and by who)
+
+1) Create a makefile / start working on project files (Alex)
+
+
+## Problems Encountered 
+1) Still need to finish a new project proposal, as we don't have a proper uncovered algorithm
+
+2) Considering changing the project topic overall to flight data instead due to topic complications
+
+
+## Plans for next week
+1) Finalize plans for project proposal
+2) Figure out what uncovered algorithm will be chosen
+3) Decide what dataset and goal we will go for
+4) Begin creating an adjacency list / directed graph for overall usage regardless of topic/data
+
+## Optional: Questions for mentor
+N/A
+
+
+----
+
+
+# Development Log (Date: 11/18/2022 -- 11/25/2022)
+
+## Weekly Goals:
+1. Complete Mid-Project Check-in; talk to professor given our confusion in the project proposal
+2. Study new dataset properly
+2. Finish the data parsing and data cleaning
+
+## Specific Tasks Completed (and by who)
+1. Meet professor as suggested by our mentor: Arhan, Sara
+2. Meet mentor (Savya) for check-in and demo data clean up and parsing: Arhan, Amitabh, Alex, Sara
+3. Studied dataset to add one more data clean-up (remove >0 stop records to not duplicate paths in graph. Example: Chicago->Delhi 1 stop is just a repeat of Chicago->Amsterdam->Delhi): Arhan
+4. Finalize data parsing and clean up: Alex, Arhan
+5. Start working on individual algorithms (DFS, Dijikstra's, PageRank): work assigned and started
+
+## Problems Encountered 
+1. Project timeline due to project proposal mix-up. However, it has been cleared up now and we are back on schedule!
+
+## Plans for next week
+1. Complete algorithms by Wednesday, then write up a "Findings" document and make the project video
+2. Get Git repository ready for final submission
+
+## Optional: Questions for mentor
+N/A
