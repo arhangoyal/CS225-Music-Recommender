@@ -5,8 +5,8 @@
 ### Team
 1. Arhan Goyal (arhang2)
 2. Alex Ji (alexji2)
-3. Amitabh Mahapatra
-4. Sara Alabbadi
+3. Amitabh Mahapatra (amitabh3)
+4. Sara Alabbadi (saraa6)
 
 ---
 ## Project Files and Deliverables
