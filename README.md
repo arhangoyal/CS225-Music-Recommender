@@ -49,7 +49,7 @@
 | `./main -csv <file=default>`| Converts provided csv into compressed.txt. Default = `./data/routes.csv`       | `./main -csv`         |
 | `./main -dk <src> <dest>`   | Dijkstra's Algorithm: Returns shortest weighted path and path length from `src` to `dest` airports.        | `./main -dk ORD DXB`  |
 | `./main -pr <T/F>`          | Page Rank Algorithm: Returns 5 most or 1 least central airport(s), with parameter `T` or `F` respectively. | `./main -pr T`        |
-| `./main -dfs <src> <dest>`  | Depth-First Search: Returns unweighted path from `src` to `dest` airports.     | `./main -bfs ORD DXB` |
+| `./main -dfs <src> <dest>`  | Depth-First Search: Returns unweighted path from `src` to `dest` airports.     | `./main -dfs ORD DXB` |
 
 ### With Custom Data
 1. Pull the latest version of the project from our GitHub repository
