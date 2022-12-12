@@ -11,7 +11,7 @@
 ---
 ## Project Files and Deliverables
 ### Code
-- [code_base/airport.cpp]/[code_base/airport.h]
+- [code_base/airport.cpp](code_base/airport.cpp)/[code_base/airport.h]
 - code_base/page_rank.cpp/h
 - code_base/dijkstra.cpp/h
 - code_base/heap.cpp/h
