@@ -9,6 +9,10 @@
 - A: We implemented the PageRank algorithm to essentially check which are the most central airports and hence should be allocated enough funding.
 
 # Graph Algorithms
+
+## Note about our Graph: It is Directed!
+Our graph was directed. Example: There are multiple route (with layovers) from CMI to BSS but none from BSS to CMI, proving there must be edges which only go one way in our graph.
+
 ## DFS 
 - Description: Performs a Depth-first search of the flight routes.
   - Inputs: StartNode EndNode
