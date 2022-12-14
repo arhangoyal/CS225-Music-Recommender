@@ -1,4 +1,4 @@
-# Subreddit-Graph-Algorithms
+# cs225-Open-Flights
 
 ## CS225 Final Project
 
